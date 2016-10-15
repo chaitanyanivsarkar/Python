@@ -1,0 +1,8 @@
+Hello this is a test file for encryption
+so there are special characthers like!@#$%^&*()_+=-|}{[]\":;'?><,./
+and whitespaces like s p a c e and t	a	b
+also NUMB3r5 a5 w311
+and line break
+
+
+fuck off
